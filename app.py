@@ -165,13 +165,15 @@ if uploaded_file is not None:
             unsafe_allow_html=True
         )
 
-# ---------- FOOTER ----------
+# -------- FOOTER --------
 st.markdown(
 """
 ---
-Built by **Madhumita Ash & Prem Kumar**
+
+Built by **Madhumita Ash & Prem Kumar**  
 AI-powered acoustic monitoring for forest protection 🌲
 """
 )
+
 
 

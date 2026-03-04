@@ -169,7 +169,8 @@ if uploaded_file is not None:
 st.markdown(
 """
 ---
-Built by **Madhumita Ash**  
+Built by **Madhumita Ash**  & **Prem Kumar**
 AI-powered acoustic monitoring for forest protection 🌲
 """
 )
+

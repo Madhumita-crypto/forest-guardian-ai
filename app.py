@@ -170,10 +170,11 @@ st.markdown(
 """
 ---
 
-Built by **Madhumita Ash & Prem Kumar**  
+Built by **Madhumita Ash & Team**
 AI-powered acoustic monitoring for forest protection 🌲
 """
 )
+
 
 
 
